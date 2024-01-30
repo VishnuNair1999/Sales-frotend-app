@@ -1,0 +1,13 @@
+// actionTypes.js
+export const UPDATE_VR_NO = 'UPDATE_VR_NO';
+export const UPDATE_VR_DATE = 'UPDATE_VR_DATE';
+export const UPDATE_AC_NAME = 'UPDATE_AC_NAME';
+export const UPDATE_AC_AMT = 'UPDATE_AC_AMT';
+export const UPDATE_STATUS = 'UPDATE_STATUS';
+
+
+export const RESET_DETAIL_TABLE = 'RESET_DETAIL_TABLE';
+export const UPDATE_DETAIL_TABLE = 'UPDATE_DETAIL_TABLE';
+export const ADD_DETAIL_TABLE_ROW = 'ADD_DETAIL_TABLE_ROW';
+export const REMOVE_DETAIL_TABLE_ROW = 'REMOVE_DETAIL_TABLE_ROW';
+

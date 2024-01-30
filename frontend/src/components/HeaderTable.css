@@ -1,0 +1,40 @@
+/* HeaderTable.css */
+.header-table-container {
+  margin: 20px;
+  padding: 30px;
+  border: 1px solid #ccc;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.label-input-container {
+  flex: 1;
+  margin-right: 45px;
+}
+
+.label {
+  
+  font-weight: bold;
+}
+
+.input {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.large {
+  flex: 2; 
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
